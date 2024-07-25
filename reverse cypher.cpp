@@ -11,7 +11,7 @@ int main() {
 
     int ckey;
     cin >> ckey;
-    cout << "Masukkan Key Caesar Cipher: " << ckey << endl;
+    cout << "Masukkan Key Reverse Cipher: " << ckey << endl;
     cout << "" << endl;
 
     cout << "Hasil Enkripsi dengan Reverse Cipher: ";
