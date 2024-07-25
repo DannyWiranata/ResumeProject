@@ -9,11 +9,6 @@ int main() {
     cout << "Masukkan pesan: " << pesan << endl;
     cout << "" << endl;
 
-    int ckey;
-    cin >> ckey;
-    cout << "Masukkan Key Reverse Cipher: " << ckey << endl;
-    cout << "" << endl;
-
     cout << "Hasil Enkripsi dengan Reverse Cipher: ";
     int indeks = pesan.length() - 1;
     while (indeks >= 0) {
